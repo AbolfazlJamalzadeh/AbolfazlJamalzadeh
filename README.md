@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Poulstar Institute** 
 
-- 🌱 I’m currently learning **VUE, Laravel, Flutter** 
+- 🌱 I’m currently learning **VUE, Laravel** 
 
 - 👯 I’m looking to collaborate **on web frontend and backend projects** 
 

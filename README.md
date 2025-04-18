@@ -5,10 +5,10 @@
 </div>
 
 ## 🚀 About Me
-I'm a passionate Full Stack Developer currently diving deep into AI. With over a year of teaching experience at Pole Star Institute, I'm enthusiastic about sharing my knowledge and collaborating on exciting projects.
+I'm a passionate Full Stack Developer currently diving deep into AI. With over a year of teaching experience at PoulStar Institute, I'm enthusiastic about sharing my knowledge and collaborating on exciting projects.
 
 ## 💼 Professional Experience
-- 🎓 **Instructor** at Pole Star Institute (1+ year)
+- 🎓 **Instructor** at PoulStar Institute (1+ year)
 - 💻 **Full Stack Developer** with experience in modern web technologies
 
 ## 🛠️ Tech Stack

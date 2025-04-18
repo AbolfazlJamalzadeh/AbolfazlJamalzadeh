@@ -43,28 +43,28 @@ I'm a passionate Full Stack Developer currently diving deep into AI. With over a
 
 ### 🔥 Frontend Development
 ```
-HTML5           ★★★★★ 95%
-CSS3            ★★★★★ 92%
-JavaScript      ★★★★☆ 90%
-TypeScript      ★★★★☆ 85%
-React           ★★★★☆ 88%
-Next.js         ★★★★☆ 82%
-Tailwind CSS    ★★★★★ 95%
-UI/UX Design    ★★★☆☆ 70%
+HTML5           ⭐⭐⭐⭐⭐ 95%
+CSS3            ⭐⭐⭐⭐⭐ 92%
+JavaScript      ⭐⭐⭐⭐☆ 90%
+TypeScript      ⭐⭐⭐⭐☆ 85%
+React           ⭐⭐⭐⭐☆ 88%
+Next.js         ⭐⭐⭐⭐☆ 82%
+Tailwind CSS    ⭐⭐⭐⭐⭐ 95%
+UI/UX Design    ⭐⭐⭐☆☆ 70%
 ```
 
 ### 🔥 Backend Development
 ```
-Node.js         ★★★★☆ 85%
-Express.js      ★★★★☆ 75%
-Python          ★★★☆☆ 70%
-API Development ★★★★☆ 80%
+Node.js         ⭐⭐⭐⭐☆ 85%
+Express.js      ⭐⭐⭐⭐☆ 75%
+Python          ⭐⭐⭐☆☆ 70%
+API Development ⭐⭐⭐⭐☆ 80%
 ```
 
 ### 🔥 Database Management
 ```
-MongoDB         ★★★★☆ 85%
-MySQL           ★★★★☆ 80%
+MongoDB         ⭐⭐⭐⭐☆ 85%
+MySQL           ⭐⭐⭐⭐☆ 80%
 ```
 
 </div>

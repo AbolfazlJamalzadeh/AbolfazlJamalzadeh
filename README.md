@@ -41,31 +41,25 @@ I'm a passionate Full Stack Developer currently diving deep into AI. With over a
 
 <div align="center">
 
-### 🔥 Frontend Development
-```
-HTML5           ⭐⭐⭐⭐⭐ 95%
-CSS3            ⭐⭐⭐⭐⭐ 92%
-JavaScript      ⭐⭐⭐⭐☆ 90%
-TypeScript      ⭐⭐⭐⭐☆ 85%
-React           ⭐⭐⭐⭐☆ 88%
-Next.js         ⭐⭐⭐⭐☆ 82%
-Tailwind CSS    ⭐⭐⭐⭐⭐ 95%
-UI/UX Design    ⭐⭐⭐☆☆ 70%
-```
+### 💻 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-95%25-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-92%25-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-85%25-blue?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)
+![React](https://img.shields.io/badge/React-88%25-lightblue?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-82%25-black?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-95%25-teal?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-70%25-purple?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E)
 
-### 🔥 Backend Development
-```
-Node.js         ⭐⭐⭐⭐☆ 85%
-Express.js      ⭐⭐⭐⭐☆ 75%
-Python          ⭐⭐⭐☆☆ 70%
-API Development ⭐⭐⭐⭐☆ 80%
-```
+### 🔐 Backend
+![Node.js](https://img.shields.io/badge/Node.js-85%25-green?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933)
+![Express.js](https://img.shields.io/badge/Express-75%25-gray?style=for-the-badge&logo=express&logoColor=white&labelColor=000000)
+![Python](https://img.shields.io/badge/Python-70%25-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
+![API](https://img.shields.io/badge/API%20Dev-80%25-orange?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688)
 
-### 🔥 Database Management
-```
-MongoDB         ⭐⭐⭐⭐☆ 85%
-MySQL           ⭐⭐⭐⭐☆ 80%
-```
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-85%25-green?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-80%25-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)
 
 </div>
 

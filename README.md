@@ -5,7 +5,7 @@
 </div>
 
 ## 🚀 About Me
-I'm a passionate Full Stack Developer currently diving deep into AI. With over a year of teaching experience at Pole Star Institute, I'm enthusiastic about sharing my knowledge and collaborating on exciting projects.
+I'm a passionate Full Stack Developer currently diving deep into AI. With over a year of teaching experience at PoulStar Institute, I'm enthusiastic about sharing my knowledge and collaborating on exciting projects.
 
 > "I don't just build websites; I craft digital experiences that transform businesses and engage users."
 
@@ -16,7 +16,7 @@ I'm a passionate Full Stack Developer currently diving deep into AI. With over a
 - **Clean Architecture**: My code isn't just functional—it's maintainable, scalable, and built to last.
 
 ## 💼 Professional Experience
-- 🎓 **Instructor** at Pole Star Institute (1+ year)
+- 🎓 **Instructor** at PoulStart Institute (1+ year)
 - 💻 **Full Stack Developer** with experience in modern web technologies
 
 ## 🛠️ Tech Stack
@@ -41,123 +41,31 @@ I'm a passionate Full Stack Developer currently diving deep into AI. With over a
 
 <div align="center">
 
-### Frontend
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML5&nbsp;
-      <img src="https://progress-bar.dev/95/?width=90" alt="95%" />
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS3&nbsp;
-      <img src="https://progress-bar.dev/92/?width=90" alt="92%" />
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript&nbsp;
-      <img src="https://progress-bar.dev/90/?width=90" alt="90%" />
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript&nbsp;
-      <img src="https://progress-bar.dev/85/?width=90" alt="85%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React&nbsp;
-      <img src="https://progress-bar.dev/88/?width=90" alt="88%" />
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="48" height="48" alt="Next.js" />
-      </a>
-      <br>Next.js&nbsp;
-      <img src="https://progress-bar.dev/82/?width=90" alt="82%" />
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="48" height="48" alt="Tailwind" />
-      </a>
-      <br>Tailwind&nbsp;
-      <img src="https://progress-bar.dev/95/?width=90" alt="95%" />
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
-      </a>
-      <br>UI/UX&nbsp;
-      <img src="https://progress-bar.dev/70/?width=90" alt="70%" />
-    </td>
-  </tr>
-</table>
+### 🔥 Frontend Development
+```
+HTML5           ★★★★★ 95%
+CSS3            ★★★★★ 92%
+JavaScript      ★★★★☆ 90%
+TypeScript      ★★★★☆ 85%
+React           ★★★★☆ 88%
+Next.js         ★★★★☆ 82%
+Tailwind CSS    ★★★★★ 95%
+UI/UX Design    ★★★☆☆ 70%
+```
 
-### Backend
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="48" height="48" alt="Node.js" />
-      </a>
-      <br>Node.js&nbsp;
-      <img src="https://progress-bar.dev/85/?width=90" alt="85%" />
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://expressjs.com/images/express-facebook-share.png" width="48" height="48" alt="Express" />
-      </a>
-      <br>Express&nbsp;
-      <img src="https://progress-bar.dev/75/?width=90" alt="75%" />
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python&nbsp;
-      <img src="https://progress-bar.dev/70/?width=90" alt="70%" />
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="API" />
-      </a>
-      <br>API Dev&nbsp;
-      <img src="https://progress-bar.dev/80/?width=90" alt="80%" />
-    </td>
-  </tr>
-</table>
+### 🔥 Backend Development
+```
+Node.js         ★★★★☆ 85%
+Express.js      ★★★★☆ 75%
+Python          ★★★☆☆ 70%
+API Development ★★★★☆ 80%
+```
 
-### Database
-<table>
-  <tr>
-    <td align="center" width="96"> 
-      <a>
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB&nbsp;
-      <img src="https://progress-bar.dev/85/?width=90" alt="85%" />
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL&nbsp;
-      <img src="https://progress-bar.dev/80/?width=90" alt="80%" />
-    </td>
-  </tr>
-</table>
+### 🔥 Database Management
+```
+MongoDB         ★★★★☆ 85%
+MySQL           ★★★★☆ 80%
+```
 
 </div>
 
